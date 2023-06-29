@@ -6,8 +6,6 @@ color 0b
 :Run tool
 cls
 :loop
-echo MSGBOX "WELCOME TO TOOL  Chris    {اقفل اي حاجه مفتوحه زي كروم او اي شيء}" > %temp%\TEMPmessage.vbs
-call %temp%\TEMPmessage.vbs
 echo Cleaning... please wait
                                                                                              
 echo =-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
